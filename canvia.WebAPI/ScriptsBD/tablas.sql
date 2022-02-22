@@ -1,3 +1,5 @@
+create database Canvia;
+go
 create table Producto(
 	nId int primary key identity,
 	cNombre varchar(250),
